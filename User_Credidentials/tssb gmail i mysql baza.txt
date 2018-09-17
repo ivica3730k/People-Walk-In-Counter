@@ -1,0 +1,10 @@
+gmail
+
+tssb.knjiznica@gmail.com
+tehnicka_skola1
+
+mysql
+db4free.net
+username : tssb_knjiznica
+pass: tssb_knjiznica1
+baza tssb_knjiznica

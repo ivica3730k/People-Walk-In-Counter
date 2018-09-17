@@ -1,0 +1,11 @@
+﻿<<<<<<<<<<2018-03-14 21:51:08>>>>>>>>>>
+  21:51:08_>> { Serial spojen }
+  21:51:08_>> { Sql spojen }
+  21:51:08_>> { Datum vec postoji,preskoci dodavanje }
+<<<<<<<<<<2018-03-24 16:28:47>>>>>>>>>>
+  16:28:47_>> { System.IO.IOException: The port 'COM5' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Brojac_prometa.Form1.Form1_Load(Object sender, EventArgs e) }
+  16:28:47_>> { Sql spojen }
